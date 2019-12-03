@@ -1,0 +1,7 @@
+id,firstName,lastName,birthday
+1,Stone,Barrett,1964-10-19 14:11:03
+2,Raymond,Pace,1980-11-12 13:17:29
+3,Armand,Logan,1973-09-15 16:11:06
+4,Tom,Jack,1987-07-29 08:23:23
+5,Audra,Hopkins,1979-03-20 02:11:48
+6,Duncan,Castaneda,1989-12-09 22:02:07
