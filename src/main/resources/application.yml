@@ -34,3 +34,8 @@ spring:
       ### 数据库连接超时时间,默认30秒，即30000
       connection-timeout: 30000
       connection-test-query: SELECT 1
+
+  ### job嵌套时候，需要指明执行的父job
+#  batch:
+#    job:
+#      names: parentJob
